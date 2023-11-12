@@ -1,0 +1,18 @@
+{
+  "name": "galihap/php-jwt-sederhana",
+  "description": "Implementasi Sederhana PHP JWT",
+  "autoload": {
+    "psr-4": {
+      "Galihap\\PhpJwtSederhana\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "galihap76",
+      "email": "g4lihanggoro@gmail.com"
+    }
+  ],
+  "require": {
+    "firebase/php-jwt": "^6.9"
+  }
+}
